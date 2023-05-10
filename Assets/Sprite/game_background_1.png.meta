@@ -1,0 +1,2989 @@
+fileFormatVersion: 2
+guid: 2ca7bce7b86ef6341a82355e26cf2c02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5604729042958658342
+    second: game_background_1_0
+  - first:
+      213: -1713770377517488952
+    second: game_background_1_1
+  - first:
+      213: -7686669693401857182
+    second: game_background_1_2
+  - first:
+      213: 6066144748513517231
+    second: game_background_1_3
+  - first:
+      213: -7995425102146966791
+    second: game_background_1_4
+  - first:
+      213: -4008803966704282965
+    second: game_background_1_5
+  - first:
+      213: 8525160579981241394
+    second: game_background_1_6
+  - first:
+      213: -4887678203602885930
+    second: game_background_1_7
+  - first:
+      213: 1130343144650083847
+    second: game_background_1_8
+  - first:
+      213: 4263755777070177065
+    second: game_background_1_9
+  - first:
+      213: 8514124255217398395
+    second: game_background_1_10
+  - first:
+      213: 8652528059701181121
+    second: game_background_1_11
+  - first:
+      213: -2281557554524109925
+    second: game_background_1_12
+  - first:
+      213: -4444259645712557618
+    second: game_background_1_13
+  - first:
+      213: -4151549960269067362
+    second: game_background_1_14
+  - first:
+      213: -3312779517991038284
+    second: game_background_1_15
+  - first:
+      213: 6207665313776503981
+    second: game_background_1_16
+  - first:
+      213: 1558079314183423018
+    second: game_background_1_17
+  - first:
+      213: 4801600229611805784
+    second: game_background_1_18
+  - first:
+      213: 7762881541185971485
+    second: game_background_1_19
+  - first:
+      213: -9106280302512527686
+    second: game_background_1_20
+  - first:
+      213: 8505205708451478009
+    second: game_background_1_21
+  - first:
+      213: -2163889248008642323
+    second: game_background_1_22
+  - first:
+      213: 430155183440176962
+    second: game_background_1_23
+  - first:
+      213: -8658368279855555779
+    second: game_background_1_24
+  - first:
+      213: 1777461703030062445
+    second: game_background_1_25
+  - first:
+      213: 2694160123258055109
+    second: game_background_1_26
+  - first:
+      213: -1216013842104050819
+    second: game_background_1_27
+  - first:
+      213: -5681088018409001175
+    second: game_background_1_28
+  - first:
+      213: -4445537929368889401
+    second: game_background_1_29
+  - first:
+      213: 5134983265788734598
+    second: game_background_1_30
+  - first:
+      213: -345184386110000340
+    second: game_background_1_31
+  - first:
+      213: -6571131821215016213
+    second: game_background_1_32
+  - first:
+      213: 6255709091958888520
+    second: game_background_1_33
+  - first:
+      213: 1185064075467884277
+    second: game_background_1_34
+  - first:
+      213: -7598127438945009087
+    second: game_background_1_35
+  - first:
+      213: -3396023939762620011
+    second: game_background_1_36
+  - first:
+      213: -4481252430005836731
+    second: game_background_1_37
+  - first:
+      213: 7476485010271623093
+    second: game_background_1_38
+  - first:
+      213: -7327341960236184282
+    second: game_background_1_39
+  - first:
+      213: 306243846568223569
+    second: game_background_1_40
+  - first:
+      213: 5241650416013679438
+    second: game_background_1_41
+  - first:
+      213: 9121889540201967606
+    second: game_background_1_42
+  - first:
+      213: -1722765862275097934
+    second: game_background_1_43
+  - first:
+      213: 1821988464040878776
+    second: game_background_1_44
+  - first:
+      213: -8263389533558901833
+    second: game_background_1_45
+  - first:
+      213: -1535759523754411457
+    second: game_background_1_46
+  - first:
+      213: -7243083464230295564
+    second: game_background_1_47
+  - first:
+      213: 1976183058715953354
+    second: game_background_1_48
+  - first:
+      213: 5656052878435774679
+    second: game_background_1_49
+  - first:
+      213: 8269371734898103232
+    second: game_background_1_50
+  - first:
+      213: -621379837500055130
+    second: game_background_1_51
+  - first:
+      213: -1303636179491942377
+    second: game_background_1_52
+  - first:
+      213: 7006269912590943499
+    second: game_background_1_53
+  - first:
+      213: 5126265988585949596
+    second: game_background_1_54
+  - first:
+      213: -734850582508404369
+    second: game_background_1_55
+  - first:
+      213: 8005806572600581259
+    second: game_background_1_56
+  - first:
+      213: -6540986717206370759
+    second: game_background_1_57
+  - first:
+      213: -8891779237625624485
+    second: game_background_1_58
+  - first:
+      213: 1507419000086532486
+    second: game_background_1_59
+  - first:
+      213: 2690212887732932845
+    second: game_background_1_60
+  - first:
+      213: -9157218070928576235
+    second: game_background_1_61
+  - first:
+      213: -1933653278066265193
+    second: game_background_1_62
+  - first:
+      213: 2847944007892691170
+    second: game_background_1_63
+  - first:
+      213: -7766540795981054907
+    second: game_background_1_64
+  - first:
+      213: 1056521177640804138
+    second: game_background_1_65
+  - first:
+      213: 2440167767307495795
+    second: game_background_1_66
+  - first:
+      213: -268723214368774945
+    second: game_background_1_67
+  - first:
+      213: -2149718404132617449
+    second: game_background_1_68
+  - first:
+      213: -288522205782524868
+    second: game_background_1_69
+  - first:
+      213: 5727310246973164040
+    second: game_background_1_70
+  - first:
+      213: -1350056294739265731
+    second: game_background_1_71
+  - first:
+      213: -2033548222039265522
+    second: game_background_1_72
+  - first:
+      213: -8938310193339222499
+    second: game_background_1_73
+  - first:
+      213: -2055270601346491187
+    second: game_background_1_74
+  - first:
+      213: -1316047661320190523
+    second: game_background_1_75
+  - first:
+      213: -7333527093746570933
+    second: game_background_1_76
+  - first:
+      213: -3034074232047100394
+    second: game_background_1_77
+  - first:
+      213: 8730269509020052952
+    second: game_background_1_78
+  - first:
+      213: -2444226838728929663
+    second: game_background_1_79
+  - first:
+      213: -6140375142020533370
+    second: game_background_1_80
+  - first:
+      213: 5371966733581485559
+    second: game_background_1_81
+  - first:
+      213: -2580392954026684493
+    second: game_background_1_82
+  - first:
+      213: -819726646157446116
+    second: game_background_1_83
+  - first:
+      213: -431647495001032277
+    second: game_background_1_84
+  - first:
+      213: 6890501976298338852
+    second: game_background_1_85
+  - first:
+      213: 4426487614560431232
+    second: game_background_1_86
+  - first:
+      213: -104401635766332381
+    second: game_background_1_87
+  - first:
+      213: -8675490210995658401
+    second: game_background_1_88
+  - first:
+      213: -802915277839766765
+    second: game_background_1_89
+  - first:
+      213: 3508349045580097322
+    second: game_background_1_90
+  - first:
+      213: 1976425705268852025
+    second: game_background_1_91
+  - first:
+      213: -4940842939032526765
+    second: game_background_1_92
+  - first:
+      213: 7541464839932038717
+    second: game_background_1_93
+  - first:
+      213: 5171165909868175879
+    second: game_background_1_94
+  - first:
+      213: 8323979125697018865
+    second: game_background_1_95
+  - first:
+      213: -3812101749099501521
+    second: game_background_1_96
+  - first:
+      213: -3368712997732978126
+    second: game_background_1_97
+  - first:
+      213: -6856157760094824896
+    second: game_background_1_98
+  - first:
+      213: 5080354435169035671
+    second: game_background_1_99
+  - first:
+      213: -7252903377954482006
+    second: game_background_1_100
+  - first:
+      213: 4402647361754789198
+    second: game_background_1_101
+  - first:
+      213: -2117664445239015193
+    second: game_background_1_102
+  - first:
+      213: -366764961139680401
+    second: game_background_1_103
+  - first:
+      213: -5500753137346769840
+    second: game_background_1_104
+  - first:
+      213: -6124362134900141926
+    second: game_background_1_105
+  - first:
+      213: -6455330871894537345
+    second: game_background_1_106
+  - first:
+      213: 5912702518281219082
+    second: game_background_1_107
+  - first:
+      213: -7249608781285421874
+    second: game_background_1_108
+  - first:
+      213: -7830762065540155306
+    second: game_background_1_109
+  - first:
+      213: 5800051504295433713
+    second: game_background_1_110
+  - first:
+      213: 5621596760878796972
+    second: game_background_1_111
+  - first:
+      213: 4021367008912906752
+    second: game_background_1_112
+  - first:
+      213: -7634952451939152165
+    second: game_background_1_113
+  - first:
+      213: -430610247473483873
+    second: game_background_1_114
+  - first:
+      213: -4845463766175364281
+    second: game_background_1_115
+  - first:
+      213: -1576292508019481011
+    second: game_background_1_116
+  - first:
+      213: -6237830046110502231
+    second: game_background_1_117
+  - first:
+      213: -5583134678771308777
+    second: game_background_1_118
+  - first:
+      213: -6670523679169057062
+    second: game_background_1_119
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_background_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4522c61a00832b0800000000000000
+      internalID: -5604729042958658342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ab7debe67738e0800000000000000
+      internalID: -1713770377517488952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263850bb3a6735590800000000000000
+      internalID: -7686669693401857182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedf3b42864f2450800000000000000
+      internalID: 6066144748513517231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fae94e2b3b8a0190800000000000000
+      internalID: -7995425102146966791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21a66280edd58c0800000000000000
+      internalID: -4008803966704282965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce1f611647f4670800000000000000
+      internalID: 8525160579981241394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a4d1e19a7b2cb0800000000000000
+      internalID: -4887678203602885930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e8a2be919cfaf00800000000000000
+      internalID: 1130343144650083847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9945f947eb2b30800000000000000
+      internalID: 4263755777070177065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7235cd76ee382670800000000000000
+      internalID: 8514124255217398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab69f5d64f31870800000000000000
+      internalID: 8652528059701181121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b934bfb0e774650e0800000000000000
+      internalID: -2281557554524109925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec913bf1661d252c0800000000000000
+      internalID: -4444259645712557618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b00e69e4bb266c0800000000000000
+      internalID: -4151549960269067362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b254fa8494a602d0800000000000000
+      internalID: -3312779517991038284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac892896be062650800000000000000
+      internalID: 6207665313776503981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2489c591e86f9510800000000000000
+      internalID: 1558079314183423018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c127708f5b2a240800000000000000
+      internalID: 4801600229611805784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a3d7d1ab4bbb60800000000000000
+      internalID: 7762881541185971485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6aa9fdf4eff9180800000000000000
+      internalID: -9106280302512527686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9ffd1878f880670800000000000000
+      internalID: 8505205708451478009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de06827913258f1e0800000000000000
+      internalID: -2163889248008642323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_23
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ae3b3cd738f500800000000000000
+      internalID: 430155183440176962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b13b86ceb47d780800000000000000
+      internalID: -8658368279855555779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db7f26000daa810800000000000000
+      internalID: 1777461703030062445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_26
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a1da9b54936520800000000000000
+      internalID: 2694160123258055109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1e637ad9df1fe0800000000000000
+      internalID: -1216013842104050819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_28
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe0050c88b821b0800000000000000
+      internalID: -5681088018409001175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_29
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c711748ec64e42c0800000000000000
+      internalID: -4445537929368889401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca9ece210234740800000000000000
+      internalID: 5134983265788734598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f6e331a8a53bf0800000000000000
+      internalID: -345184386110000340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea96388c66aec4a0800000000000000
+      internalID: -6571131821215016213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481464664eb0d650800000000000000
+      internalID: 6255709091958888520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f607567f71327010800000000000000
+      internalID: 1185064075467884277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c883d9570e8690800000000000000
+      internalID: -7598127438945009087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f9bd3836eed0d0800000000000000
+      internalID: -3396023939762620011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54465a858a46fc1c0800000000000000
+      internalID: -4481252430005836731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d5c5318fc1c760800000000000000
+      internalID: 7476485010271623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_39
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dce402f4d005a90800000000000000
+      internalID: -7327341960236184282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532959e72fff3400800000000000000
+      internalID: 306243846568223569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_41
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b164b28451eb840800000000000000
+      internalID: 5241650416013679438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe61cf436779e70800000000000000
+      internalID: 9121889540201967606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_43
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba5ceb63918718e0800000000000000
+      internalID: -1722765862275097934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_44
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22400dad0094910800000000000000
+      internalID: 1821988464040878776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37a83200b825d80800000000000000
+      internalID: -8263389533558901833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af13699d2efaae0800000000000000
+      internalID: -1535759523754411457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72c0cf6f56b7b90800000000000000
+      internalID: -7243083464230295564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c8e98500dc6b10800000000000000
+      internalID: 1976183058715953354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07df930265e7e40800000000000000
+      internalID: 5656052878435774679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d146a7c5b2c270800000000000000
+      internalID: 8269371734898103232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1283b745a6067f0800000000000000
+      internalID: -621379837500055130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710190d3dcd88ede0800000000000000
+      internalID: -1303636179491942377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058d7c5d554b3160800000000000000
+      internalID: 7006269912590943499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_54
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9905d9a1c7242740800000000000000
+      internalID: 5126265988585949596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f610992e9494dc5f0800000000000000
+      internalID: -734850582508404369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_56
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c585449a65a1f60800000000000000
+      internalID: 8005806572600581259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_57
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ad508c3fb935a0800000000000000
+      internalID: -6540986717206370759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_58
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b588120e4ed0a9480800000000000000
+      internalID: -8891779237625624485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_59
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68115db089d6be410800000000000000
+      internalID: 1507419000086532486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0df773e5e855520800000000000000
+      internalID: 2690212887732932845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b3877ea60be080800000000000000
+      internalID: -9157218070928576235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793371aa6984a25e0800000000000000
+      internalID: -1933653278066265193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e865a27cfde58720800000000000000
+      internalID: 2847944007892691170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c38f18b44b73490800000000000000
+      internalID: -7766540795981054907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f15f2d96489ae00800000000000000
+      internalID: 1056521177640804138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a8b2e7a73dd120800000000000000
+      internalID: 2440167767307495795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e5a809ad454cf0800000000000000
+      internalID: -268723214368774945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7134e8a408aaa22e0800000000000000
+      internalID: -2149718404132617449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c358e1596fefbf0800000000000000
+      internalID: -288522205782524868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_70
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4a45335e7b7f40800000000000000
+      internalID: 5727310246973164040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_71
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37394de3f2a34de0800000000000000
+      internalID: -1350056294739265731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_72
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe8bf8aa267c3e0800000000000000
+      internalID: -2033548222039265522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_73
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1633c18c3eb4f380800000000000000
+      internalID: -8938310193339222499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_74
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc507107463a73e0800000000000000
+      internalID: -2055270601346491187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c68fef957cbde0800000000000000
+      internalID: -1316047661320190523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49688286f31a3a90800000000000000
+      internalID: -7333527093746570933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9aa8af8dc4e5d0800000000000000
+      internalID: -3034074232047100394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd609e0dd5282970800000000000000
+      internalID: 8730269509020052952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0617e3ac541ed0800000000000000
+      internalID: -2444226838728929663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833a38675109caa0800000000000000
+      internalID: -6140375142020533370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50754484f0d8a40800000000000000
+      internalID: 5371966733581485559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_82
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf8152a74a903cd0800000000000000
+      internalID: -2580392954026684493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_83
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14fcda55febf94f0800000000000000
+      internalID: -819726646157446116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_84
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b648e3ea720af0800000000000000
+      internalID: -431647495001032277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab36d3a0bff9f50800000000000000
+      internalID: 6890501976298338852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_86
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6a8c680b0e6d30800000000000000
+      internalID: 4426487614560431232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_87
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3249d22f3471d8ef0800000000000000
+      internalID: -104401635766332381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_88
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51a9392e977a9780800000000000000
+      internalID: -8675490210995658401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_89
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b60af0fc87bd4f0800000000000000
+      internalID: -802915277839766765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e1e17ed820b030800000000000000
+      internalID: 3508349045580097322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935308715bcad6b10800000000000000
+      internalID: 1976425705268852025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35028ff46899e6bb0800000000000000
+      internalID: -4940842939032526765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4f36c05aa8a860800000000000000
+      internalID: 7541464839932038717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_94
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026d4c3ffba3c740800000000000000
+      internalID: 5171165909868175879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbffe899e6b48370800000000000000
+      internalID: 8323979125697018865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28674518a1b81bc0800000000000000
+      internalID: -3812101749099501521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_97
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23272e3706def31d0800000000000000
+      internalID: -3368712997732978126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_98
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469289b7d80ad0a0800000000000000
+      internalID: -6856157760094824896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_99
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a451217b018640800000000000000
+      internalID: 5080354435169035671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_100
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8dac62ec2885b90800000000000000
+      internalID: -7252903377954482006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_101
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4574b40378591d30800000000000000
+      internalID: 4402647361754789198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_102
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8cd0c286b8c92e0800000000000000
+      internalID: -2117664445239015193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_103
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9537063df8eaf0800000000000000
+      internalID: -366764961139680401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_104
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c84537a2669a3b0800000000000000
+      internalID: -5500753137346769840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909c692615e10ba0800000000000000
+      internalID: -6124362134900141926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b0d1916ce0a66a0800000000000000
+      internalID: -6455330871894537345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca5b01d932e0250800000000000000
+      internalID: 5912702518281219082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc0ee63937346b90800000000000000
+      internalID: -7249608781285421874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ffdaf36b835390800000000000000
+      internalID: -7830762065540155306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5df78fc1ced7050800000000000000
+      internalID: 5800051504295433713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_111
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0daa2387ce30e40800000000000000
+      internalID: 5621596760878796972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_112
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9abd0df3cec730800000000000000
+      internalID: 4021367008912906752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_113
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4b2952333b0690800000000000000
+      internalID: -7634952451939152165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_114
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f23bae24a260af0800000000000000
+      internalID: -430610247473483873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_115
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4715806471ccb0800000000000000
+      internalID: -4845463766175364281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_116
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a365c052ef1ae0800000000000000
+      internalID: -1576292508019481011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_117
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2335c5f96ce69a0800000000000000
+      internalID: -6237830046110502231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_118
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717eba22798b482b0800000000000000
+      internalID: -5583134678771308777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_background_1_119
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeeb454e0a8d63a0800000000000000
+      internalID: -6670523679169057062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
